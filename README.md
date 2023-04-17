@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shxbham&label=Profile%20views&color=0e75b6&style=flat" alt="shxbham" /> </p>
 
-- ⚡ Fun fact **i am narcissistic and insecure at the same time**
+- ⚡ Fun Fact **I edit stuff as well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
