@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on my DSA<br>👯 I’m looking to collaborate on - WebDev projects<br>🤝 I’m looking for help with -  React<br>🌱 I’m currently learning - C++
 
+### NOW PLAYING🎧
+[![Spotify](https://spotify-playing-bice.vercel.app/api/spotify)]([https://open.spotify.com/user/USER_NAME](https://open.spotify.com/user/31f2fkfehwh7pdmikfpcmaapi62m)https://open.spotify.com/user/31f2fkfehwh7pdmikfpcmaapi62m)
+
+[![](https://visitcount.itsvg.in/api?id=shxbham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shubhxm.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@shubhxm.undf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhxm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@shubhxm_mishra) 
@@ -15,11 +19,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shxbham&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shxbham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### NOW PLAYING🎧
-[![Spotify](https://spotify-playing-bice.vercel.app/api/spotify)]([https://open.spotify.com/user/USER_NAME](https://open.spotify.com/user/31f2fkfehwh7pdmikfpcmaapi62m)https://open.spotify.com/user/31f2fkfehwh7pdmikfpcmaapi62m)
