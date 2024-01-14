@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my DSA<br>👯 I’m looking to collaborate on - WebDev projects<br>🤝 I’m looking for help with -  DSA<br>🌱 I’m currently learning - Java
+🔭 I’m currently working on Node<br>👯 I’m looking to collaborate on - WebDev projects<br>🤝 I’m looking for help with -  DSA<br>🌱 I’m currently learning - Java
 
 ### NOW PLAYING🎧
 [![Spotify](https://spotify-playing-bice.vercel.app/api/spotify)]([https://open.spotify.com/user/USER_NAME](https://open.spotify.com/user/31f2fkfehwh7pdmikfpcmaapi62m)https://open.spotify.com/user/31f2fkfehwh7pdmikfpcmaapi62m)
